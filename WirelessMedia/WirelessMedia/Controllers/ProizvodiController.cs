@@ -10,7 +10,7 @@ using WirelessMedia.Models;
 namespace WirelessMedia.Controllers
 {
     public class ProizvodiController : Controller
-    {
+    { 
         private readonly WirelessMediaContext _context;
 
         public ProizvodiController(WirelessMediaContext context)

@@ -30,3 +30,8 @@ C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\Wirele
 C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.dll
 C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.pdb
 C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.csproj.CopyComplete
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\Razor\Views\Proizvodi\Create.g.cshtml.cs
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\Razor\Views\Proizvodi\Delete.g.cshtml.cs
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\Razor\Views\Proizvodi\Details.g.cshtml.cs
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\Razor\Views\Proizvodi\Edit.g.cshtml.cs
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\Razor\Views\Proizvodi\Index.g.cshtml.cs
