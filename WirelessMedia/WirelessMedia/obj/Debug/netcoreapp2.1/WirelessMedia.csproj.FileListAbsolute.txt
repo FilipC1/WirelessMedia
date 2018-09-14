@@ -23,3 +23,10 @@ C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\Wirele
 C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.RazorTargetAssemblyInfo.cache
 C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.RazorTargetAssemblyInfo.cs
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\bin\Debug\netcoreapp2.1\WirelessMedia.pdb
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\bin\Debug\netcoreapp2.1\WirelessMedia.Views.dll
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\bin\Debug\netcoreapp2.1\WirelessMedia.Views.pdb
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.Views.pdb
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.dll
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.pdb
+C:\Users\Filip\source\repos\WirelessMedia2018\WirelessMedia\WirelessMedia\WirelessMedia\obj\Debug\netcoreapp2.1\WirelessMedia.csproj.CopyComplete
