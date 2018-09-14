@@ -10,9 +10,23 @@ namespace WirelessMedia.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly WirelessMediaContext db;
+        public HomeController(WirelessMediaContext _db)
         {
-            return View();
+            db = _db;
+
+        }
+
+        public IActionResult Index(string kategorija = "")
+        {
+            ViewBag.Kategorija = kategorija;
+            IEnumerable<Proizvod> listaProizvoda = db.Proizvodi;
+            if (kategorija != "")
+            {
+                listaProizvoda = listaProizvoda
+                .Where(p => p.Kategorija == kategorija);
+            }
+            return View(listaProizvoda.ToList());
         }
 
         public IActionResult About()
