@@ -184,7 +184,7 @@ using WirelessMedia.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(1231, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c2b845e762b4484aa8ac47357b171c9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c821fa7f439e4a90bc9bd93325a34603", async() => {
                 BeginContext(1285, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -219,7 +219,7 @@ using WirelessMedia.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(1301, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "71202f32e9b348e4b2a37d29ce5df1df", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bcf4369303f543b0b1e614df909808f5", async() => {
                 BeginContext(1323, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
